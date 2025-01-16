@@ -1,2 +1,2 @@
 # ReadingAndWritingExcelJava
-Reading and Writing Excel Excercise for SergioEspriella-Hexaware
+Reading and Writing Excel Excercise for SergioEspriella
